@@ -54,8 +54,7 @@ begin
      $finish;
      end
      endmodule
-OUTPUT:![TRAFFIC_LIGHT](https://github.com/user-attachments/assets/e6aff7a7-7225-450a-a080-548d6e437f06)
-
+OUTPUT:![TRAFFIC-OUTPUT](https://github.com/user-attachments/assets/289ce4a6-bc70-403b-80e0-5313c1210a01)
 
 
 Testbench for Traffic Light Controller
@@ -94,8 +93,7 @@ module Traffic_light_controller_TB;
     $finish;             // End simulation
   end
 endmodule
-OUTPUT:![TESTBENCH_TRAFFIC_LIGHT](https://github.com/user-attachments/assets/b3c18d9f-a158-49ac-ba57-95af719c4ac5)
-
+OUTPUT:[TESTBENCH-OUTPUT-TRAFFIC](https://github.com/user-attachments/assets/b98a57f3-ba6c-4116-bab9-2a2d71e1ee4d)
 
 
 Conclusion
